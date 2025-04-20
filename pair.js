@@ -76,26 +76,55 @@ router.get('/', async (req, res) => {
                     await MalvinTechInc.sendMessage(userJid, { text: stringSession });
 
                     // Send confirmation message
-                    await MalvinTechInc.sendMessage(userJid, { text: `Hey there, MALVIN-XD User!* 👋🏻
+                    await MalvinTechInc.sendMessage(userJid, { text: `Hey there, 𝐒𝐡𝐞𝐥𝐥𝐚𝐡 User!* 👋🏻
 
-Thanks for using *MALVIN-XD* — your session has been successfully created!
+Thanks for using *𝐬𝐡𝐞𝐥𝐥𝐚𝐡 𝐬𝐞𝐬𝐬𝐢𝐨𝐧* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
 
 ——————
 
-*✅ Stay Updated:*  
-Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+*❧Oᴡᴇʀ Oғ Tʜᴇ Gʀᴜᴘ✿➳↡↡*
 
-*💻 Source Code:*  
-Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+`🐦-----Mʀ Sʜᴇʟʟᴀʜ Oғᴄ-----🐦`
 
+*❧Oᴡɴᴇʀ Nᴜᴍʙᴇʀ✿➳↡↡*
+
+----------+263771341158---------
+
+*☆☆🌹Wᴏʀᴛʜʏ ғᴏʟʟᴏᴡɪɴɢ🌹☆☆*
+1.           *YᴏᴜTᴜʙᴇ Aᴄᴄ*
+                        `Hᴇʀᴇ` 
+
+https://www.youtube.com/@Sh3llahCyber 
+
+2.           *TɪᴋTᴏᴋ Aᴄᴄ*
+                      `Hᴇʀᴇ` 
+
+https://www.tiktok.com/@sh3llahcyber7 
+
+3.          *Iɴsᴛᴀɢʀᴀᴍ Aᴄᴄ*
+                        `Hᴇʀᴇ`
+https://www.instagram.com/sh3llahcyber 
+
+*🥀❧Cʜᴀɴɴᴇʟ✿➳↡↡🥀*
+
+https://whatsapp.com/channel/0029Vb5SP7IDjiOfSjLKlB2Y 
+
+🥀❧Gʀᴏᴜᴘ✿➳↡↡🥀
+
+https://chat.whatsapp.com/HEcYRhVMKFI0392aP02ocB 
+
+🥀❧Tᴇʟᴇɢʀᴀᴍ✿➳↡↡🥀
+
+https://t.me/ZimCyber
+
+`🌹Aʟʟ Rɪɢʜᴛs Rᴇsᴇʀᴠᴇᴅ Bʏ  Mʀ Sʜᴇʟʟᴀʜ🌹`
+      ~Pʟᴇᴀsᴇ. Bʏ Mᴇ ᴄᴏғғᴇᴇ🐦~
 ——————
 
-*© Powered by Malvin King*
+*© Powered by 𝐬𝐡𝐞𝐥𝐥𝐚𝐡*
 Stay cool and hack smart. ✌🏻` });
 
                     // Clean up session after use
